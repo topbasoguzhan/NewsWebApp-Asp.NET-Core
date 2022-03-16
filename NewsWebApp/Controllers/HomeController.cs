@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using NewsWebApp.Models;
 using System.Diagnostics;
 
 namespace NewsWebApp.Controllers
